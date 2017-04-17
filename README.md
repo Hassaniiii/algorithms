@@ -3,7 +3,7 @@ Implemention of "Introduction to Algorithms" practices and pseudo codes in Java.
 
 # License
 	GNU License
-    Copyright (C) 2017  Hassan Shahbazi (mailto:h-shahbazi@hotmail.com)
+    Copyright (C) 2017  Hassan Shahbazi (h-shahbazi@hotmail.com)
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
